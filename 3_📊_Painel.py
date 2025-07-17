@@ -1,0 +1,1 @@
+# Painel de status e botões de ação
